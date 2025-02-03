@@ -1,0 +1,95 @@
+{
+    "greeting": "Salut humain ! Quelle formation cherchez-vous sur le DGI ?",
+    "formations": [
+        {
+            "formation": "DIPLÔME SUPÉRIEUR DE TECHNOLOGIE (DST) EN INFORMATIQUE",
+            "description": "Les étudiants formés doivent être capables de participer à la conception, la réalisation et la mise en œuvre de systèmes informatiques correspondant aux besoins des utilisateurs.",
+            "duration": "2 ans",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Payant",
+            "pdf": "DSTI.pdf"
+        },
+        {
+            "formation": "DIPLÔME UNIVERSITAIRE DE TECHNOLOGIE (DUT) EN INFORMATIQUE",
+            "description": "Une formation technique en informatique, offrant des compétences pratiques en développement logiciel et en administration des systèmes.",
+            "duration": "2 ans",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Non payant",
+            "pdf": "dut-informatique.pdf"
+        },
+        {
+            "formation": "LICENCE PROFESSIONNELLE EN GÉNIE LOGICIEL",
+            "description": "Une formation professionnelle orientée vers le développement de logiciels et la gestion de projets informatiques.",
+            "duration": "1 an",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Payant",
+            "pdf": "licence-genie-logiciel.pdf"
+        },
+        {
+            "formation": "MASTER EN SÉCURITÉ ET SYSTÈMES D’INFORMATION (MSSI)",
+            "description": "Une formation spécialisée dans la sécurité des systèmes d'information et la gestion des réseaux sécurisés.",
+            "duration": "2 ans",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Payant",
+            "pdf": "master-ssi.pdf"
+        },
+        {
+            "formation": "MASTER EN TÉLÉCOMS ET RÉSEAUX",
+            "description": "Une formation avancée en télécommunications et réseaux, couvrant les technologies de communication modernes.",
+            "duration": "2 ans",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Payant",
+            "pdf": "master-telecoms.pdf"
+        },
+        {
+            "formation": "MASTER EN GÉNIE LOGICIEL ET SYSTÈMES D’INFORMATION",
+            "description": "Une formation approfondie en génie logiciel et en systèmes d'information, préparant les étudiants à des carrières de haut niveau en informatique.",
+            "duration": "2 ans",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Payant",
+            "pdf": "master-genie-logiciel.pdf"
+        },
+        {
+            "formation": "LICENCE PROFESSIONNELLE EN SYSTÈMES, RÉSEAUX & TÉLÉCOMS",
+            "description": "Une formation pratique sur les systèmes, les réseaux et les télécommunications, adaptée aux besoins de l'industrie.",
+            "duration": "1 an",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Non payant",
+            "pdf": "licence-srt.pdf"
+        },
+        {
+            "formation": "DIPLÔME SUPÉRIEUR DE TECHNOLOGIE EN TÉLÉCOMMUNICATIONS ET RÉSEAUX (DSTTR)",
+            "description": "Une formation technique avancée en télécommunications et réseaux, incluant des projets pratiques et des stages.",
+            "duration": "2 ans",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Payant",
+            "pdf": "dsttr.pdf"
+        },
+        {
+            "formation": "MASTER EN INTELLIGENCE ARTIFICIELLE ET BIG DATA (MIABD)",
+            "description": "Une formation spécialisée dans les technologies de l'intelligence artificielle et du Big Data, préparant les étudiants à des carrières innovantes.",
+            "duration": "2 ans",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Payant",
+            "pdf": "master-ia-bd.pdf"
+        },
+        {
+            "formation": "MASTER DE RECHERCHE (M2R): SCIENCES DE L’INGÉNIEUR",
+            "description": "Une formation axée sur la recherche en sciences de l'ingénieur, permettant aux étudiants de contribuer à l'avancement des connaissances scientifiques.",
+            "duration": "2 ans",
+            "email": "genie.informatique@esp.sn",
+            "phone": "00221 33 824 05 40",
+            "regime": "Payant",
+            "pdf": "m2r-sciences-ingenieur.pdf"
+        }
+    ]
+}
